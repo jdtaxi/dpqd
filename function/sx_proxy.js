@@ -491,7 +491,7 @@ async function W9pDbu8(ker4jV = apiurl) {
             [KZVcq2b["s3ImELK"]]: 0x2710,
             ["send"]: 0x2710,
             ["response"]: 0x2710,
-            ["request"]: 0x7530
+            ["request"]: 0x2710
         }
     })["catch"](ker4jV => {
         if ((() => {
@@ -937,7 +937,7 @@ function DUXbrQK(ker4jV, BLOrtM = false) {
             ["http"]: yfpes8
         }
         _NEJa3["timeout"] = {
-            ["request"]: 0x7530
+            ["request"]: 0x2710
         }
         ker4jV(_NEJa3, async (KZVcq2b, Iyq6zy, OIZKy8) => {
             if ((() => {
